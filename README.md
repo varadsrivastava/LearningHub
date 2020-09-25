@@ -15,11 +15,31 @@ The objectives were:
 ## Snapshots of Final Version of the web app
 
 - ### SignUp and LogIn Page
-- ### Home Page
-- ### Resources Page
-- ### Start a new thread page
-- ### Forum page and post directory page
-- ### Ask Question Page
-- ### The drop down of Profile icon which provides navigation to Profile subpages
-- ### Profile Page
+<img src="snaps/reg.png">
+<img src="snaps/login.png">
 
+- ### Home Page
+<img src="snaps/home1.png">
+<img src="snaps/home2.png">
+
+- ### Resources Page
+<img src="snaps/resc1.png">
+<img src="snaps/resc2.png">
+
+- ### Start a new thread page
+<img src="snaps/thread1.png">
+<img src="snaps/thread2.png">
+
+- ### Forum page and post directory page
+<img src="snaps/forum.png">
+<img src="snaps/direc.png">
+
+- ### Ask Question Page
+<img src="snaps/ask.png">
+
+- ### The drop down of Profile icon which provides navigation to Profile subpages
+<img src="snaps/drop.png">
+
+- ### Profile Page
+<img src="snaps/profile.png">
+<img src="snaps/profile2.png">
