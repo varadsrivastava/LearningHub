@@ -32,7 +32,7 @@ The objectives were:
 
 - ### Forum page and post directory page
 <img src="snaps/forum.png">
-<img src="snaps/direc.png">
+<img src="snaps/postdirec.png">
 
 - ### Ask Question Page
 <img src="snaps/ask.png">
